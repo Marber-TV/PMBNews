@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lila_500">#9C27B0</color>
+    <color name="lila_700">#7B1FA2</color>
+    <color name="lila_200">#E1BEE7</color>
+    <color name="lila_400">#AB47BC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#B00020</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="primary">#DB3022</color>
+    <color name="background">#F9F9F9</color>
+    <color name="backgroundAd">#FFFFFFFF</color>
+    <color name="success">#2AA952</color>
+    <color name="sale">#DB3022</color>
+
+    <color name="mainText">#474D71</color>
+    <color name="textAd">#838297</color>
+    <color name="backGroundAd">#FFFFFFFF</color>
+    <color name="backGround">#F9F9F9</color>
+</resources>

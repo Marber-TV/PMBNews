@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789425352338",
+    "project_id": "pmbnews-2a5c9",
+    "storage_bucket": "pmbnews-2a5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789425352338:android:29f3a4daab98940403c04b",
+        "android_client_info": {
+          "package_name": "com.pablo.pmbnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789425352338-dig4fgn8noa5h5fqpo7jj5nb49jhb2eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pablo.pmbnews",
+            "certificate_hash": "938b424de387d3a2c56d8e4332f770ada068eddf"
+          }
+        },
+        {
+          "client_id": "789425352338-hbsbvkkdjrtb3pot0j7fa5q80qkbgb8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pablo.pmbnews",
+            "certificate_hash": "dad8d549c628be3a7daa85f72dd32ba05c2dcbaa"
+          }
+        },
+        {
+          "client_id": "789425352338-pkbdbqptv36aid52eac2hbj8f5skm4n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1YhFLmyBumereLFZCdNysopqx6E0Pkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789425352338-pkbdbqptv36aid52eac2hbj8f5skm4n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

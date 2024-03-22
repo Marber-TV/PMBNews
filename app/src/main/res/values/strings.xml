@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMBNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">789425352338-pkbdbqptv36aid52eac2hbj8f5skm4n5.apps.googleusercontent.com</string>
+    <string name="read_more">Read More</string>
+    <string name="published_at">PUBLISHED AT</string>
+</resources>

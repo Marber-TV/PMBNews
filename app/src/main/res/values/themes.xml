@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PMBNews" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">@font/roman</item>
+        <!-- Colores primarios -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/lila_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/lila_200</item>
+        <item name="colorSecondaryVariant">@color/lila_400</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Colores de fondo -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="colorOnBackground">@color/black</item>
+        <!-- Otros colores -->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/on_error</item>
+    </style>
+
+    <style name="Theme.PMBNews" parent="Base.Theme.PMBNews" />
+</resources>
